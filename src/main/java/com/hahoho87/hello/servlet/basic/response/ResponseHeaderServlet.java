@@ -1,4 +1,4 @@
-package com.hahoho87.springservletstudy.basic.response;
+package com.hahoho87.hello.servlet.basic.response;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

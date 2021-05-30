@@ -1,7 +1,7 @@
-package com.hahoho87.springservletstudy.basic.response;
+package com.hahoho87.hello.servlet.basic.response;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.hahoho87.springservletstudy.basic.HelloData;
+import com.hahoho87.hello.servlet.basic.HelloData;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

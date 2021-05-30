@@ -1,10 +1,9 @@
-package com.hahoho87.springservletstudy.basic.request;
+package com.hahoho87.hello.servlet.basic.request;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.hahoho87.springservletstudy.basic.HelloData;
+import com.hahoho87.hello.servlet.basic.HelloData;
 import org.springframework.util.StreamUtils;
 
-import javax.servlet.ServletException;
 import javax.servlet.ServletInputStream;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;

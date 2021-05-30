@@ -1,4 +1,4 @@
-package com.hahoho87.springservletstudy.basic.request;
+package com.hahoho87.hello.servlet.basic.request;
 
 import org.springframework.util.StreamUtils;
 

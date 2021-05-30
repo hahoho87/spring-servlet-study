@@ -1,4 +1,4 @@
-package com.hahoho87.springservletstudy;
+package com.hahoho87.hello.servlet;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

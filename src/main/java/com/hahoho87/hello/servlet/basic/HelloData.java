@@ -1,4 +1,4 @@
-package com.hahoho87.springservletstudy.basic;
+package com.hahoho87.hello.servlet.basic;
 
 import lombok.Getter;
 import lombok.Setter;
