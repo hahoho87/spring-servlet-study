@@ -2,7 +2,6 @@ package com.hahoho87.hello.servlet.web.frontcontroller.v4.controller;
 
 import com.hahoho87.hello.servlet.domain.member.Member;
 import com.hahoho87.hello.servlet.domain.member.MemberRepository;
-import com.hahoho87.hello.servlet.web.frontcontroller.ModelView;
 import com.hahoho87.hello.servlet.web.frontcontroller.v4.ControllerV4;
 
 import java.util.Map;
